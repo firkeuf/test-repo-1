@@ -7,3 +7,5 @@
 #  Copyright 2012 __MyCompanyName__. All rights reserved.
 
 echo "Test2"
+
+echo "bash-test2"
